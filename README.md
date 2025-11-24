@@ -8,10 +8,10 @@ The Weather App provides real-time weather updates and forecast details for any 
 
 
 ## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
-### Building a Todo List App from Scratch | HTML, CSS, JavaScript 
+### Building a WeatherApp from Scratch | HTML, CSS, JavaScript 
 
 
-![Preview_img](/Preview_img.png)
+![preview img](/preview.jpeg)
 
 
 
