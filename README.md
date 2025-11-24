@@ -10,10 +10,7 @@ The Weather App provides real-time weather updates and forecast details for any 
 ## [Watch Live]( https://iamanjuyadav.github.io/Weather-App/)
 ### Building a WeatherApp from Scratch | HTML, CSS, JavaScript 
 
-
 ![preview img](/preview.png)
-
-
 
 ##
 ⚙️ How It Works
