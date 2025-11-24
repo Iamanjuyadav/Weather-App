@@ -7,11 +7,11 @@ Weather-App · It provides real-time weather updates, forecasts, and climate dat
 The Weather App provides real-time weather updates and forecast details for any location. It helps users stay informed about current climate conditions and plan their activities accordingly.
 
 
-## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
+## [Watch Live]( https://iamanjuyadav.github.io/Weather-App/)
 ### Building a WeatherApp from Scratch | HTML, CSS, JavaScript 
 
 
-![preview img](/preview.jpeg)
+![preview img](/preview.png)
 
 
 
